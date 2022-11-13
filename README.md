@@ -77,4 +77,4 @@ we will lose the data about the cover image in those bits.
   ![Screenshot 2022-11-13 151342](https://user-images.githubusercontent.com/97322648/201515972-8ec5e9fb-b187-46e8-9f4c-257fd9dfccd6.jpg)
 
 - You have successfully retrieved the secret text.
-  ![Screenshot 2022-11-13 151357](https://user-images.githubusercontent.com/97322648/201516038-f9972711-a4d5-48c9-87c9-274c2f709f70.jpg)
+   ![Screenshot 2022-11-13 151357](https://user-images.githubusercontent.com/97322648/201516038-f9972711-a4d5-48c9-87c9-274c2f709f70.jpg)
